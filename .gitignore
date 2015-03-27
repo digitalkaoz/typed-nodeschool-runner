@@ -1,0 +1,7 @@
+build/*
+!build/.gitignore
+node_modules
+typings
+src/*
+!src/.gitignore
+tsd.json

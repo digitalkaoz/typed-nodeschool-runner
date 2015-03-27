@@ -1,0 +1,19 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {},
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./build/definitions/learnyounode/_foo.d.ts",
+        "./build/definitions/learnyounode/baby steps.d.ts",
+        "./build/definitions/learnyounode/hello world.d.ts",
+        "./build/definitions/stream-adventure/beep boop.d.ts",
+        "./src/learnyounode/baby steps.ts",
+        "./src/learnyounode/hello world.ts",
+        "./src/stream-adventure/beep boop.ts",
+        "./typings/node/node.d.ts",
+        "./typings/tsd.d.ts"
+    ]
+}
